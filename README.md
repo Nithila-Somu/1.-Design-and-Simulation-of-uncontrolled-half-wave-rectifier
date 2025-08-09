@@ -52,11 +52,13 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="742" height="474" alt="image" src="https://github.com/user-attachments/assets/cf0b6498-62fa-451c-bacc-e2f5aaded536" />
 
 ## Output
+<img width="1900" height="1038" alt="image" src="https://github.com/user-attachments/assets/fd0e5865-8dc2-44e9-8775-2a7112060035" />
 
 ## Result
-
+Thus the half wave rectifier is successfully designed and simulated using MATLAB Simulink.
 
 
 
